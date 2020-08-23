@@ -26,4 +26,4 @@ rodar:
 ## Contato
 * Kamila Melo
 * kamilamelo5@hotmail.com
-* [LinkedIn!](https://www.linkedin.com/in/kamila-melo-27996236/)
+* [LinkedIn](https://www.linkedin.com/in/kamila-melo-27996236/)
